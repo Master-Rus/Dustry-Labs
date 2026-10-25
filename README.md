@@ -8,9 +8,7 @@ A **free browser game** about building and optimizing a digital system.
 
 **No download required · Cloud saves · English / Russian**
 
-### [▶ Play Dustry Labs](https://game.mindustry.ru)
-
-[Official Website](https://mindustry.ru)
+### [▶ Play Dustry Labs](https://mindustry.ru)
 
 </div>
 
